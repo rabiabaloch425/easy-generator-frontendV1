@@ -17,5 +17,6 @@ cd easy-generator-frontendV1
 npm install
 npm run dev
 
+```bash
 ### 2. Quick Demo URL
 https://www.loom.com/share/4d39dba8d2254ef0b7df8ae89fc01720
